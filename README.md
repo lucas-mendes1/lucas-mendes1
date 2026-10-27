@@ -13,8 +13,3 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=lucas-mendes1&theme=aura&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
----
-[![](https://komarev.com/ghpvc/?username=lucas-mendes1&icon=2&color=7)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
